@@ -10,6 +10,4 @@ https://github.com/nanoninja/docker-nginx-php-mysql#install-prerequisites
 
 # imagens do sistema
 
-
-
-![alt text](https://drive.google.com/open?id=1OVuFkIxCa5Y0cDv95yE57qAhwOSptxIP)
+![Image description](https://drive.google.com/open?id=1OVuFkIxCa5Y0cDv95yE57qAhwOSptxIP)
